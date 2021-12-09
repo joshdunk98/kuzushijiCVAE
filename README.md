@@ -8,4 +8,4 @@ Additionally, make sure that you have jupyter notebook installed as well as the 
     python -m pip install numpy matplotlib sklearn tensorflow jupyter
 
 
-Please follow the instructions detailed in Demo.ipynb to learn how to generate kuzushiji images and evaluate their quality using a CNN model.
+The purpose of the CVAE is to introduce a conditional generative model that will generate quality kuzushiji images to compensate for lack of data or data imbalance. By generating enough kuzushiji images, the desire is to improve the performance of simple CNN models. Please follow the instructions detailed in Demo.ipynb to learn how to generate kuzushiji images and evaluate their quality using a CNN model.
